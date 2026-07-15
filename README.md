@@ -435,4 +435,4 @@ Jaramogi Oginga Odinga University of Science and Technology (JOOUST)
 
 This project is developed for academic purposes.
 
-© 2026 Benjamin Swaka. All Rights Reserved.
+© 2026 All Rights Reserved.
